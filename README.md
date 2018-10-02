@@ -2,13 +2,15 @@
 A C program that calculates your mortage over the years 
 
 
-output in Terminal 
+output in Terminal: 
+
 The initial mortgage value: 
 150000
 The mortgage rate: 
 4
 How many years: 
 20
+
 For a mortgage of 150000.00 for 20 years and interest rate of 4.00 
 1        149591.03 
 2        149180.70 
